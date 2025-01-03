@@ -119,7 +119,7 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 
 ## 📄 License
 
-MIT © [Votre Nom]
+free : https://github.com/DanihStephane
 
 ---
 
