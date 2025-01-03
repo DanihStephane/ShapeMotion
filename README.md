@@ -5,6 +5,9 @@ Une application web moderne mettant en valeur des animations géométriques flui
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
+![Capture d’écran du 2025-01-03 23-04-17](https://github.com/user-attachments/assets/2beb6c2b-1d5a-4811-ad50-72ccbeb598cf)
+
+
 ## ✨ Caractéristiques
 
 - 🎯 Animations fluides et réactives
