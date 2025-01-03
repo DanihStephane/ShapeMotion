@@ -31,7 +31,7 @@ Une application web moderne mettant en valeur des animations géométriques flui
 
 ```bash
 # Cloner le projet
-git clone [url-du-projet]
+git clone git@github.com:DanihStephane/ShapeMotion.git
 
 # Installer les dépendances
 npm install
